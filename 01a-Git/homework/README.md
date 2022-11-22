@@ -52,7 +52,7 @@ Para ello primero iremos a la carpeta de nivel superior, escribe en la consola:
 
 ```bash
   cd ~
-```
+
 
 y presiona Enter. Una vez estés en el nivel superior, escribe:
 
